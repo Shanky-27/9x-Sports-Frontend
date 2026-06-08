@@ -1,4 +1,4 @@
-import ProductCard from "@/src/components/ProductGrid";
+import ProductCard from "@/src/components/ProductCard";
 
 const products = [
   {
