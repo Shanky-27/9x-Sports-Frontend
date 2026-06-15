@@ -3,7 +3,7 @@
 export default function FlashSale() {
 
 function copyCode() {
-  navigator.clipboard?.writeText("9XELITE").catch(() => {});
+  navigator.clipboard?.writeText("NXELITE").catch(() => {});
 
   const btn = document.querySelector(".promo-copy-btn");
 
@@ -34,11 +34,11 @@ function copyCode() {
             </h2>
 
             <p className="flash-desc">
-              For a limited time, grab premium 9X Sports boots at our biggest discount of the season.
+              For a limited time, grab premium NX Sports boots at our biggest discount of the season.
             </p>
 
             <div className="promo-display">
-              <div className="promo-code-val">9XELITE</div>
+              <div className="promo-code-val">NXELITE</div>
 
               <button className="promo-copy-btn" onClick={copyCode}>
                 Copy Code

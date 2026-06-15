@@ -20,7 +20,7 @@ import ProcessStrip from "../components/ProcessStrip";
 export default function Home() {
   return (
     <>
-      <AnnouncementBar />
+      {/* <AnnouncementBar /> */}
       <Navbar />
       <MobileNav />
       <Hero />
@@ -30,9 +30,9 @@ export default function Home() {
       <ProductSection />
       <DualBanners /> 
       <FlashSale /> 
-      <BrandStrip />
+      {/* <BrandStrip /> */}
       <ProcessStrip />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Newsletter />
       <PaymentMethods />
       <FAQ />

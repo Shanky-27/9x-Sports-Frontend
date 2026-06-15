@@ -3,7 +3,7 @@
 export default function FloatingWhatsapp() {
   return (
     <a
-      href="https://wa.me/917005966020"
+      href="https://wa.me/919326408468"
       className="whatsapp-btn"
       title="WhatsApp Support"
       target="_blank"

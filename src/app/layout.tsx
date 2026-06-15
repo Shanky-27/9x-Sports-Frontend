@@ -3,7 +3,7 @@ import "./globals.css";
 import Footer from "@/src/components/Footer";
 
 export const metadata: Metadata = {
-  title: "9X Sports Private Limited",
+  title: "NX Sports Private Limited",
   description: "Built for Performance. Designed for Champions.",
 };
 

@@ -16,8 +16,8 @@ export default function PaymentMethods() {
         <div className="pay-chip"><span className="pay-chip-icon">P</span>PhonePe</div>
         <div className="pay-chip"><span className="pay-chip-icon">💳</span>Credit Card</div>
         <div className="pay-chip"><span className="pay-chip-icon">💳</span>Debit Card</div>
-        <div className="pay-chip"><span className="pay-chip-icon">💵</span>Cash on Delivery</div>
-        <div className="pay-chip"><span className="pay-chip-icon">🔒</span>SSL Secure</div>
+        {/* <div className="pay-chip"><span className="pay-chip-icon">💵</span>Cash on Delivery</div> */}
+        {/* <div className="pay-chip"><span className="pay-chip-icon">🔒</span>SSL Secure</div> */}
       </div>
     </div>
   );

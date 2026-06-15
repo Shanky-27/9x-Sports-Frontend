@@ -217,7 +217,7 @@ export default function ProductSection() {
                 Boots
               </button>
 
-              <button
+              {/* <button
                 className={
                   activeFilter === "balls"
                     ? "tag tag-blue active-filter"
@@ -290,7 +290,7 @@ export default function ProductSection() {
                 onClick={() => filterProducts("gloves")}
               >
                 Gloves
-              </button>
+              </button> */}
             </div>
           </div>
         </div>

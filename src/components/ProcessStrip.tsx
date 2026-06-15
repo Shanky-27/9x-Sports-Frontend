@@ -19,7 +19,7 @@ export default function ProcessStrip() {
             </p>
           </div>
 
-          <div className="process-item">
+          {/* <div className="process-item">
             <div className="process-icon">
               <svg viewBox="0 0 24 24">
                 <path d="M5 12h14" />
@@ -43,7 +43,7 @@ export default function ProcessStrip() {
             <p className="process-desc">
               7-day no-questions-asked returns and free size exchanges processed within 48 hours.
             </p>
-          </div>
+          </div> */}
 
           <div className="process-item">
             <div className="process-icon">
@@ -54,7 +54,7 @@ export default function ProcessStrip() {
             </div>
             <div className="process-title">Secure Payments</div>
             <p className="process-desc">
-              SSL-encrypted checkout. UPI, cards, and COD. Your payment data is never stored.
+              SSL-encrypted checkout. UPI & cards. Your payment data is never stored.
             </p>
           </div>
 

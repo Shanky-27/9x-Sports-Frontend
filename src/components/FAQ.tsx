@@ -25,7 +25,7 @@ export default function FAQ() {
 
           <div className="faq-list reveal in">
 
-            <div className="faq-item">
+            {/* <div className="faq-item">
               <button className="faq-question" onClick={(e) => toggleFaq(e.currentTarget)}>
                 How long does delivery take?
                 <span className="faq-toggle">+</span>
@@ -33,7 +33,7 @@ export default function FAQ() {
               <div className="faq-answer">
                 Express 24-hour delivery is available across major Indian cities. For other locations, expect 2–3 business days. All orders placed before 3PM are dispatched the same day.
               </div>
-            </div>
+            </div> */}
 
             <div className="faq-item">
               <button className="faq-question" onClick={(e) => toggleFaq(e.currentTarget)}>
@@ -45,7 +45,7 @@ export default function FAQ() {
               </div>
             </div>
 
-            <div className="faq-item">
+            {/* <div className="faq-item">
               <button className="faq-question" onClick={(e) => toggleFaq(e.currentTarget)}>
                 What is the return & exchange policy?
                 <span className="faq-toggle">+</span>
@@ -53,7 +53,7 @@ export default function FAQ() {
               <div className="faq-answer">
                 7-day return policy for unused items. Free size exchanges within 48 hours.
               </div>
-            </div>
+            </div> */}
 
             <div className="faq-item">
               <button className="faq-question" onClick={(e) => toggleFaq(e.currentTarget)}>
@@ -65,7 +65,7 @@ export default function FAQ() {
               </div>
             </div>
 
-            <div className="faq-item">
+            {/* <div className="faq-item">
               <button className="faq-question" onClick={(e) => toggleFaq(e.currentTarget)}>
                 Is Cash on Delivery available?
                 <span className="faq-toggle">+</span>
@@ -73,7 +73,7 @@ export default function FAQ() {
               <div className="faq-answer">
                 Yes, COD available up to ₹5000 across India.
               </div>
-            </div>
+            </div> */}
 
           </div>
 
